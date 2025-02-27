@@ -9,6 +9,7 @@ public class AverageOf3Numbers{
 		int b=sc.nextInt();
 		System.out.print("Enter number3: ");
 		int c=sc.nextInt();
+
 		//Calculate the average of the 3 numbers
 		double avg=(a+b+c)/3;
 		System.out.print("Average of the three numbers: " +avg);
